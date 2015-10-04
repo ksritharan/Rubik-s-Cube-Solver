@@ -1,0 +1,3 @@
+
+Rubicks_Cube_Solver
+JMyron.jar,Rubicks_Cube_Solver.jar,core.jar,JMyron.jar,RXTXcomm.jar,serial.jar,Arduino.jar,gluegen-rt.jar,jogl.jar,opengl.jar
